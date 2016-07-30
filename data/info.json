@@ -1,0 +1,12 @@
+{
+ "options": [
+ {
+ "link": "message.php",
+ "name": "Send a message"
+ }, 
+  {
+ "link": "inbox.php",
+ "name": "Inbox"
+ }
+ ]
+}
